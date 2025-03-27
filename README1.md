@@ -12,3 +12,7 @@ a simple command line based todo list
 - Due dates and reminders
 - User authentication for personalized lists
 
+## How to Contribute
+1. Fork the repository
+2. Clone your fork and create a new branch
+3. Make your changes and submit a pull request
